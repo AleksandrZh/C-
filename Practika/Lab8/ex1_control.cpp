@@ -3,8 +3,8 @@
 
 int main() {
 
-	const Time time1(2, 70, 65);
-	const Time time2(25, 80, 35);
+	Time time1(2, 70, 65);
+	Time time2(25, 80, 35);
 	Time time3;
 
 	std::cout << "First time: ";
